@@ -2,4 +2,8 @@
 
 boilerplate for frontend prototyping
 
-`yarn run dev`
+Start dev server on `localhost:1234`:
+
+```
+yarn run dev
+```
